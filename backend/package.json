@@ -2,7 +2,7 @@
   "name": "googleform",
   "version": "1.0.0",
   "description": "this is for user form data input and review",
-  "main": "server.js",
+  "main": " node server.js",
   "scripts": {
     "start": "node server.js"
   },
@@ -11,7 +11,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.21.1",
-    "mongodb": "^6.10.0",
+    "mongodb": "^6.10.0"
    
   },
   "devDependencies": {
